@@ -1,2 +1,2 @@
 # ReverseInteger
-Reverses an Integer (typed in) using a stack. Short program that demonstrates basic stack functions
+Reverses an Integer using a stack; a short program that demonstrates basic stack functions
